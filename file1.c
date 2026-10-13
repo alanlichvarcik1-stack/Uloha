@@ -1,1 +1,1 @@
-ahoj subor file1.c
+zmena v prvomm subore
